@@ -1,13 +1,13 @@
 .about-me {
   margin: 40px;
   padding: 20px;
-  border: 10px solid rgb(235, 129, 187);
+  border: 10px solid #DF928E;
 }
 
-.about-me__header {
+/* .about-me__header {
 
 }
 
 .about-me__text {
 
-}
+} */
