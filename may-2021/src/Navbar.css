@@ -1,0 +1,10 @@
+.navbar__ul{
+    list-style-type: none;
+
+}
+
+.navbar__item {
+    font-weight: bold;
+    display: inline;
+    padding: 10px;
+}
